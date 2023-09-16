@@ -1,12 +1,6 @@
-### Hi, I'm Caden 👋
+### Hi, I'm cjgunnar 👋
 
-I'm a Student Reseacher at Gustavus Adolphus College in St. Peter, MN.
-
-My interests are biochemistry, scientific computing, bioinformatics, and research software engineering.
-
-I've worked at [Dr. Dwight Stoll's Lab](https://dwightstoll.wixsite.com/drstoll) developing [chromatography tools](https://www.multidlc.org/kinetic_plot_tool/), [Dr. Jonathan Sweedler](https://sweedler-lab.chemistry.illinois.edu/)'s Lab analyzing multidimensional proteomics data, and finally for Dr. Janie Frandsen analyzing transcriptomics data (DMS-MAPseq) for non-coding RNA structure/function relationships. 
-
-You can also find [my occasional Game Jams](https://itch.io/c/1047096/games-ive-worked-on) here. 👾
+You can find [my occasional Game Jams](https://itch.io/c/1047096/games-ive-worked-on) here. 👾
 
 <!--
 **cjgunnar/cjgunnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
