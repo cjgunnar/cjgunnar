@@ -5,6 +5,10 @@
 - [sklearn-mermaid](https://github.com/cjgunnar/sklearn-mermaid): Visualize sklearn pipelines with MermaidJS diagrams right from Python (WIP)
 - [LCTIMSpy](https://github.com/sokyem/LCTIMSpy): Tool for analyzing TIMSTOF LC-TIMS-MS data, [published alongside this article](https://pubs.acs.org/doi/10.1021/acs.analchem.5c02612)
 
+#### Gists
+
+- [Bruker OPUS NT macro programming language syntax highlighting](https://gist.github.com/cjgunnar/c45b304a494bc7f944191199908f3415): If you've ever programmed a macro for a Bruker spectrometer before and wanted syntax highlighting, it's truly your lucky day
+
 #### Projects I like
 
 - [DataLad](https://github.com/datalad/datalad): The Git-based data versioning multitool
