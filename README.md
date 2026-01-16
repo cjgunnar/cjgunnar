@@ -7,7 +7,7 @@
 
 #### Gists
 
-- [Bruker OPUS NT macro programming language syntax highlighting](https://gist.github.com/cjgunnar/c45b304a494bc7f944191199908f3415): If you've ever programmed a macro for a Bruker spectrometer before and wanted syntax highlighting, it's truly your lucky day
+- [Notepad++ for Bruker OPUS NT](https://gist.github.com/cjgunnar/c45b304a494bc7f944191199908f3415): If you've ever needed to program a macro for a Bruker spectrometer and wanted syntax highlighting, it's your lucky day
 
 #### Projects I like
 
