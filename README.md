@@ -15,7 +15,7 @@
 
 #### Hobby
 
-You can find [my occasional Game Jams here](https://itch.io/c/1047096/games-ive-worked-on). 👾
+- You can find [my occasional Game Jams here](https://itch.io/c/1047096/games-ive-worked-on). 👾
 
 <!--
 **cjgunnar/cjgunnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
